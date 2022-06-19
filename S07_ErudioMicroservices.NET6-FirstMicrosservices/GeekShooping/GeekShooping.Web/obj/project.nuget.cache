@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6amrgqFIuvbKK7mzMMn6Wb/44I4HbPb9BsBd24bQT62D8Duanvi8bzM66EKyzunad+L6wQn05DV6OV8kq9ZfrA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\CursoUdemy\\erudio-microservices-dotnet7\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.5\\microsoft.aspnetcore.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.5\\microsoft.windowsdesktop.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.5\\microsoft.netcore.app.ref.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
