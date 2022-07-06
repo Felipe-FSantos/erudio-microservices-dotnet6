@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\CursoUdemy\\erudio-microservices-dotnet7\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
+      "projectUniqueName": "D:\\Projetos\\CursoUdemy\\erudio-microservices-dotnet7\\S09_ErudioMicroservices.NET6-ConsumingProductMicroserviceonWebMicroservice\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
       "projectName": "GeekShooping.Web",
-      "projectPath": "D:\\Projetos\\CursoUdemy\\erudio-microservices-dotnet7\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
+      "projectPath": "D:\\Projetos\\CursoUdemy\\erudio-microservices-dotnet7\\S09_ErudioMicroservices.NET6-ConsumingProductMicroserviceonWebMicroservice\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\CursoUdemy\\erudio-microservices-dotnet7\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\\GeekShooping\\GeekShooping.Web\\obj\\",
+      "outputPath": "D:\\Projetos\\CursoUdemy\\erudio-microservices-dotnet7\\S09_ErudioMicroservices.NET6-ConsumingProductMicroserviceonWebMicroservice\\GeekShooping\\GeekShooping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
