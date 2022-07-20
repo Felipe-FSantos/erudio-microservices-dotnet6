@@ -1,0 +1,4 @@
+--Sobre requisições utilizando Interface IHttpClientFactory
+--Interface que realiza requisições em aplicações ASPNETCORE, neste link mostra como criar clients, typed clients, etc.
+https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/http-requests?view=aspnetcore-6.0
+
