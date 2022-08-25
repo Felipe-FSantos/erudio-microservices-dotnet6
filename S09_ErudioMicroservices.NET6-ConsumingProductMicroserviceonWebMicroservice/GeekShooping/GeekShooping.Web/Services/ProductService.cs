@@ -1,6 +1,7 @@
 ﻿using GeekShooping.Web.Utils;
 using GeekShooping.Web.Services.IServices;
 using System.Net.Http;
+using GeekShooping.Web.Models;
 
 namespace GeekShooping.Web.Services
 {
@@ -15,7 +16,7 @@ namespace GeekShooping.Web.Services
         //construtor
         public ProductService(HttpClient client)
         {
-            _client = client ?? throw new ArgumentNullException(nameof);
+            _client = client ?? throw new ArgumentNullException(nameof(client));
         }
 
         public async Task<IEnumerable<ProductModel>> FindAllProducts()
@@ -26,7 +27,7 @@ namespace GeekShooping.Web.Services
         public async Task<ProductModel> FindProductById(long id)
         {
             var response = await _client.GetAsync($"{BasePath}/{id}");
-            return await response.ReadContentAs<List<ProductModel>>();
+            return await response.ReadContentAs<ProductModel>();
         }
         public async Task<ProductModel> CreateProduct(ProductModel model)
         {
